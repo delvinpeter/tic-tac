@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/tic-tac/static/css/main.194f45ce.css",
+    "main.js": "/tic-tac/static/js/main.44dbe4d7.js",
+    "static/js/878.88882e4a.chunk.js": "/tic-tac/static/js/878.88882e4a.chunk.js",
+    "static/js/141.11ea37e2.chunk.js": "/tic-tac/static/js/141.11ea37e2.chunk.js",
+    "static/js/209.b9141f0c.chunk.js": "/tic-tac/static/js/209.b9141f0c.chunk.js",
+    "static/js/208.876f291f.chunk.js": "/tic-tac/static/js/208.876f291f.chunk.js",
+    "static/media/yellow-sky-4475183.jpg": "/tic-tac/static/media/yellow-sky-4475183.34c2b0d59ae8c0d0a403.jpg",
+    "static/media/wood-7402014.jpg": "/tic-tac/static/media/wood-7402014.ded794ef97ee2175e297.jpg",
+    "static/media/tic-tac-toe-7737546.jpg": "/tic-tac/static/media/tic-tac-toe-7737546.704323c7b5217c8d8558.jpg",
+    "static/media/Designs_1_05.jpg": "/tic-tac/static/media/Designs_1_05.9da133f0e22a200cec5a.jpg",
+    "static/media/connect-2777620.png": "/tic-tac/static/media/connect-2777620.c4a73dba9000a309f8b6.png",
+    "index.html": "/tic-tac/index.html",
+    "main.194f45ce.css.map": "/tic-tac/static/css/main.194f45ce.css.map",
+    "main.44dbe4d7.js.map": "/tic-tac/static/js/main.44dbe4d7.js.map",
+    "878.88882e4a.chunk.js.map": "/tic-tac/static/js/878.88882e4a.chunk.js.map",
+    "141.11ea37e2.chunk.js.map": "/tic-tac/static/js/141.11ea37e2.chunk.js.map",
+    "209.b9141f0c.chunk.js.map": "/tic-tac/static/js/209.b9141f0c.chunk.js.map",
+    "208.876f291f.chunk.js.map": "/tic-tac/static/js/208.876f291f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.194f45ce.css",
+    "static/js/main.44dbe4d7.js"
+  ]
+}
